@@ -1,35 +1,24 @@
 # neonFabric
 
-Combine a piece of fabric and neon light. The neon light will give feedback for interactions. The neon light will be a wire and will be attached to 
-a piece of trasparent fabric. Interacters will be able to light up the part of neon light by touching the fabric and the part they touch will be lit
-up 
-
 ## Summary
+Combine a piece of fabric and neon light. The neon light will give feedback for interactions. The neon light will be a wire and will be attached to a piece of trasparent fabric. The fabric, essentially the sensor will be able to recognize where the interactor touches and give feedback by lighting up the part of light. The light will stay on until the interator touches the next time. 
 
-Here, write a few paragraphs (half a page?) or so describing the goals of your project. 
-
-Include a discussion how it will be interactive or responsive to the environment.
 
 ## Component Parts
 
-From what pieces will you build your project? Will you build or buy those pieces?
+I will need a capacitive sensor in order to tell where on the fabric interacter touches. A neon light is needed too. And a piece of fabric and the stuff to attach the light with the fabric. 
 
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
 
 ## Challenges
 
-A brief discussion of what you anticipate will be the hardest and most time-consuming parts.
+It would be challenging to connect capacitive sensor to the light: I need to figure out how the sensor recognize the touch and transform that to work with the light. 
+
 
 ## Timeline
 
-What parts of the project do you anticipate you will complete in each of the next 5 weeks? Your goal is to solve the scary problems as quickly as possible! 
-
-- Week 1: Write proposal
-- Week 2: 
-- Week 3:
-- Week 4:
-- Week 5: Present!
+Apr.16th-23th: get together materials and find references. 
+Apr.23th-30th: working on the project. 
 
 ## References and link
 
-Tutorials, comments, videos, magazine articles - Anything you found that helps you understand your project 
+https://www.youtube.com/watch?v=a4mt-gApxiw question: can I use this technique to as a capacitive sensor? 
