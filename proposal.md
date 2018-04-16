@@ -7,7 +7,7 @@ Combine a piece of fabric and neon light. The neon light will give feedback for 
 ## Component Parts
 
 I will need a capacitive sensor in order to tell where on the fabric interacter touches. A neon light is needed too. And a piece of fabric and the stuff to attach the light with the fabric. 
-(final-project/IMG_1923.JPG)
+[https://github.com/mintywill/final-project/blob/master/IMG_1923.JPG]
 
 ## Challenges
 
